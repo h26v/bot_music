@@ -1,1 +1,1 @@
-web:src/index.ts
+worker : src/index.ts
