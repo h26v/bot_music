@@ -26,6 +26,6 @@ export const PLATFORM = {
 };
 
 export const MESSAGE_EMBED_COLOR = '#0099ff';
-export const BOT_NAME = 'Misabot';
+export const BOT_NAME = 'RaiDM - h26v#1609';
 export const BOT_LOGO =
   'https://res.cloudinary.com/dumfvnj9f/image/upload/v1621607524/misabot-discord/misabot-footer_nqcfen.png';
